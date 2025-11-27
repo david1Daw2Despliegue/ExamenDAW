@@ -7,4 +7,4 @@
 ## Autor
 DAVID GARCÍA CORDERO
 
-Línea añadida desde main por DAVID GARCÍA CORDERO
+Línea modificada desde conflicto por DAVID GARCÍA CORDERO
